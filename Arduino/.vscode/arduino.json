@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:leonardo",
+    "sketch": "remote_control_on_arduino\\remote_control_on_arduino.ino",
+    "output": "../ArduinoOutput",
+    "port": "COM6"
+}
